@@ -6,7 +6,7 @@
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/bhavya-tiwari-449021297?utm_source=share_via&utm_content=profile&utm_medium=member_android) · [Email](mailto:bhavyatiwari098@gmail.com)
 
 ## 🔥 Currently Learning and Working On
-`Python` · `Data Structures & Algorithms` · `REST APIs` · `Artificial Intelligence`, 'Machine Learning', 'Fast APIs'
+`Python` · `Data Structures & Algorithms` · `REST APIs` · `Artificial Intelligence`, `Machine Learning`, `Fast APIs`
 
 ## 📂 Featured Work
 - **[CafeCraft](https://github.com/bhavyatiwari10/cafe-management-dashboard)** — Role-based cafe management dashboard (inventory, complaints, feedback) built with React + TypeScript + Tailwind. [Live demo →](your-vercel-link-once-deployed)
