@@ -1,6 +1,6 @@
 # Hi, I'm Bhavya Tiwari
 
-- 🎓 [Your year/degree], currently prepping for [role you're targeting] interviews
+- 🎓 4th year B.Tech CS-AI Student, currently prepping for Placement interviews
 - 🚧Starting **Smart Energy Forecasting** — a full-stack ML system predicting household/grid energy usage (FastAPI + PostgreSQL + React), building the ML forecasting model first
 - 🔍 Check the pinned repos below for proof of work
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/bhavya-tiwari-449021297?utm_source=share_via&utm_content=profile&utm_medium=member_android) · [Email](mailto:bhavyatiwari098@gmail.com)
