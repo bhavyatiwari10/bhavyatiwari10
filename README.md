@@ -10,7 +10,7 @@
 
 ## 📂 Featured Work
 - **[CafeCraft](https://github.com/bhavyatiwari10/cafe-management-dashboard)** — Role-based cafe management dashboard (inventory, complaints, feedback) built with React + TypeScript + Tailwind. [Live demo →](your-vercel-link-once-deployed)
-- **[SplitSmart](your-splitsmart-repo-link)** — Group expense splitter with debt-simplification, SVG charts, achievements, and a command palette. Built with vanilla JS. [Live demo →](https://bhavyatiwari10.github.io/Split-Smart-Advance-System-/  )
+- **[SplitSmart](https://github.com/bhavyatiwari10/Split-Smart-Advance-System-)** — Group expense splitter with debt-simplification, SVG charts, achievements, and a command palette. Built with vanilla JS. [Live demo →](https://bhavyatiwari10.github.io/Split-Smart-Advance-System-/  )
 - **[Smart Energy Forecasting]** — [Full-stack ML system predicting household/grid energy usage, built with FastAPI + PostgreSQL + React] *(link:in progress)*
 
 
