@@ -9,7 +9,7 @@
 `Python` · `Data Structures & Algorithms` · `REST APIs` · `Artificial Intelligence`
 
 ## 📂 Featured Work
-- **[CafeCraft](your-repo-link)** — Role-based cafe management dashboard (inventory, complaints, feedback) built with React + TypeScript + Tailwind. [Live demo →](https://cafe-management-dashboard-beta.vercel.app/)
+- **[CafeCraft](https://github.com/bhavyatiwari10/cafe-management-dashboard)** — Role-based cafe management dashboard (inventory, complaints, feedback) built with React + TypeScript + Tailwind. [Live demo →](your-vercel-link-once-deployed)
 - **[Project 2 Name](link)** — [one-line description]. [Live demo →](link)
 - **[Smart Energy Forecasting]** — [Full-stack ML system predicting household/grid energy usage, built with FastAPI + PostgreSQL + React] *(link:in progress)*
 
