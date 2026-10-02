@@ -5,6 +5,15 @@
 - 🔍 Check the pinned repos below for proof of work
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/bhavya-tiwari-449021297?utm_source=share_via&utm_content=profile&utm_medium=member_android) · [Email](mailto:bhavyatiwari098@gmail.com)
 
+## 🏢 Work Experience
+
+**AI Engineer Intern — [AarkaX](https://aarkax.com)** · *1 Jul 2026 – 30 Sep 2026 · Remote*
+
+- Supported AI application development, model evaluation, prompt design, and workflow automation
+- Assisted with data preparation, testing, documentation, and research for AI-enabled product features
+- Followed engineering practices for version control, code quality, privacy, and information security
+- 📄 [Offer Letter](https://github.com/bhavyatiwari10/myexperience/blob/main/internships/01-aarkax-ai-engineer-intern/offer-letter.pdf) · 🏅 [Completion Certificate](https://github.com/bhavyatiwari10/myexperience/blob/main/internships/01-aarkax-ai-engineer-intern/completion-certificate.pdf) · 📂 [All documents](https://github.com/bhavyatiwari10/myexperience)
+
 ## 🔥 Currently Learning and Working On
 `Python` · `Data Structures & Algorithms` · `REST APIs` · `Artificial Intelligence`.`Machine Learning`.`Fast APIs`
 
