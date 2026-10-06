@@ -15,7 +15,7 @@
 - 📄 [Offer Letter](https://github.com/bhavyatiwari10/myexperience/blob/main/internships/01-aarkax-ai-engineer-intern/offer-letter.pdf) · 🏅 [Completion Certificate](https://github.com/bhavyatiwari10/myexperience/blob/main/internships/01-aarkax-ai-engineer-intern/completion-certificate.pdf) · 📂 [All documents](https://github.com/bhavyatiwari10/myexperience)
 
 ## 🔥 Currently Learning and Working On
-`Python` · `Data Structures & Algorithms` · `REST APIs` · `Artificial Intelligence`.`Machine Learning`.`Fast APIs`
+`Python` · `Data Structures & Algorithms` · `REST APIs` · `Artificial Intelligence` . `Machine Learning` . `Fast APIs` . `Django` . `React`
 
 ## 📂 Featured Work
 - **[CafeCraft](https://github.com/bhavyatiwari10/cafe-management-dashboard)** — Role-based cafe management dashboard (inventory, complaints, feedback) built with React + TypeScript + Tailwind. [Live demo →]( https://cafe-management-dashboard-beta.vercel.app/)
